@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 fildza.larissa StafCS 4096 Feb 16 22:22 .
+drwx--x--x  3 fildza.larissa StafCS 4096 Feb 16 21:39 ..
+drwxr-xr-x  8 fildza.larissa StafCS 4096 Feb 16 22:22 .git
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:50 key
+-rw-r--r--  1 fildza.larissa StafCS    0 Feb 16 22:23 lab01.txt
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:50 log
+-rw-r--r--  1 fildza.larissa StafCS    7 Feb 16 21:39 README.md
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 22:00 sandbox
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 22:19 week00
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:45 week01
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:46 week02
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:47 week03
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:48 week04
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:48 week05
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:48 week06
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:49 week07
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:49 week08
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:49 week09
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:49 week10
+drwxr-xr-x  2 fildza.larissa StafCS 4096 Feb 16 21:50 xtra
+/home/fasilkom/mahasiswa/f/fildza.larissa/os171/week01
