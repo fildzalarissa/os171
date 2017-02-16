@@ -1,0 +1,1 @@
+Pada Week0 kita disuruh membuat account GitHub. Lalu setelah membuat account kita akan membuat repositori baru dan setelah itu login badak dengan account ssh yang telah diregistrasi.
