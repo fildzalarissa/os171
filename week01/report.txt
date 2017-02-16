@@ -1,0 +1,1 @@
+Pada task week 1 ini kita disuruh untuk diperkenalkan dengan Git. Git merupakan kontrol sistem yang digunakan untuk software development dan version control task lainnya. Pada lab ini kita akan mengikuti tahap-tahap yang diberikan dan juga tutorial push dan pull repositori.
