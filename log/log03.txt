@@ -1,0 +1,14 @@
+w03-170228-19-LR-Review scripting
+w03-170228-19-LR-Membaca slide week-03-processes-thread.pdf
+w03-170228-20-LR-Membaca slide week-03-processes-thread.pdf
+w03-170228-20-LR-Membaca slide week-03-processes-thread.pdf
+w03-170301-14-DS-About: scripting
+w03-170301-15-DS-About: scripting
+w03-170302-13-LR-About: booting and bios, from: Lecturer
+w03-170302-13-LR-About: booting and bios, from: Lecturer
+w03-170302-14-LR-About: variable and pointer, from: Lecturer
+w03-170302-20-DS-About: Lab os week03
+w03-170302-20-DS-About: Lab os week03
+w03-170303-14-PS: Lab operating system week03
+w03-170303-15-PS: Lab operating system week03
+w03-170303-15-PS: Lab operating system week03
