@@ -1,0 +1,11 @@
+w06-170410-18-LR-Membaca slide processes thread
+w06-170410-19-LR-Membaca slide processes thread
+w06-170410-19-LR-Membaca slide processes thread
+w06-170413-13-LR-About: Synchronization, from: Lecturer
+w06-170413-13-LR-About: Synchronization, from: Lecturer
+w06-170413-14-LR-About: Synchronization, from: Lecturer
+w06-170413-14-LR-About: Synchronization, from: Lecturer
+w06-170415-08-LR: reading article about fork and other articles related to the lab
+w06-170415-08-PS: Lab operating system week06
+w06-170415-09-PS: Lab operating system week06
+w06-170415-09-PS: Lab operating system week06
