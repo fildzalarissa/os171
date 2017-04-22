@@ -1,8 +1,8 @@
 w07-170417-19-PS: Mencoba soal latihan mengenai synchronization 
 w07-170417-19-PS: Mencoba soal latihan mengenai synchronization 
-w07-170418-13-LR: membahas demo synchronization, From: Lecturer
-w07-170418-13-LR: membahas demo synchronization, From: Lecturer
-w07-170418-14-LR: membahas demo synchronization, From: Lecturer
+w07-170418-13-LR: Membahas demo synchronization, From: Lecturer
+w07-170418-13-LR: Membahas demo synchronization, From: Lecturer
+w07-170418-14-LR: Membahas demo synchronization, From: Lecturer
 w07-170420-13-LR: About: scheduling and socket , From: Lecturer
 w07-170420-13-LR: About: scheduling and socket , From: Lecturer
 w07-170420-14-LR: About: scheduling and socket , From: Lecturer
@@ -12,5 +12,5 @@ w07-170421-21-DS: Discuss about synchronization
 w07-170421-22-PS: Lab operation system week07
 w07-170421-22-PS: Lab operation system week07
 w07-170422-11-PS: Lab operation system week07
-w07-170421-11-PS: Lab operation system week07
+w07-170422-11-PS: Lab operation system week07
 
